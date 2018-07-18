@@ -36,9 +36,9 @@ int main(){
 	cin>>bk.kode_buku;
 
 	cout<<"\nMasukkan tanggal peminjaman "<<endl;
-    cout<<"Masukkan Tanggal    : "; cin>>tgl;
-    cout<<"Masukkan Bulan      : "; cin>>bln;
-    cout<<"Masukkan Tahun      : "; cin>>thn;
+        cout<<"Masukkan Tanggal    : "; cin>>tgl;
+        cout<<"Masukkan Bulan      : "; cin>>bln;
+        cout<<"Masukkan Tahun      : "; cin>>thn;
     
 	system("cls");
 	cout<<" \t  DATA PEMINJAM "<<endl;
